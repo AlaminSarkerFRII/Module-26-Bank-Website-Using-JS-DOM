@@ -14,8 +14,7 @@ document.getElementById('submit-btn').addEventListener('click', function(){
    if(userEmail == 'sontan@bap.com' && userPassword =='secret'){ // aicondition fill up hole next pages a jabe........
 
     window.location.href = 'banking.html'; // banking.html page a niye jabe
-   
-
    }
 
 })
+
